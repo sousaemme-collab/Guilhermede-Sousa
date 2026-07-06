@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+
+<html lang="id">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Assassin - Guilherme Fernando Gama de Souza</title>
+
+<style>
+
+body{
+
+    margin:0;
+
+    font-family:Arial,sans-serif;
+
+    background:#111827;
+
+    color:white;
+
+}
+
+header{
+
+    background:#1f2937;
+
+    text-align:center;
+
+    padding:60px 20px;
+
+}
+
+header h1{
+
+    margin:0;
+
+    color:#ff4d6d;
+
+    font-size:48px;
+
+}
+
+header p{
+
+    font-size:20px;
+
+}
+
+.container{
+
+    max-width:900px;
+
+    margin:auto;
+
+    padding:20px;
+
+}
+
+.card{
+
+    background:#1f2937;
+
+    padding:20px;
+
+    border-radius:12px;
+
+    margin-bottom:20px;
+
+}
+
+h2{
+
+    color:#ff4d6d;
+
+}
+
+footer{
+
+    text-align:center;
+
+    padding:20px;
+
+    color:#aaa;
+
+}
+
+</style>
+
+</head>
+
+<body>
+
+<header>
+
+    <h1>ASSASSIN</h1>
+
+    <p>Programmer & Mobile Legends Gamer</p>
+
+</header>
+
+<div class="container">
+
+<div class="card">
+
+<h2>Tentang Saya</h2>
+
+<p>
+
+Nama saya <strong>Guilherme Fernando Gama de Souza</strong>,
+
+dikenal dengan nickname <strong>Assassin</strong>.
+
+Saya adalah seorang programmer yang memiliki minat besar di bidang teknologi
+
+dan juga seorang pemain Mobile Legends.
+
+</p>
+
+</div>
+
+<div class="card">
+
+<h2>Keahlian</h2>
+
+<ul>
+
+<li>Programming</li>
+
+<li>Web Development</li>
+
+<li>Problem Solving</li>
+
+<li>Mobile Legends Strategy</li>
+
+</ul>
+
+</div>
+
+<div class="card">
+
+<h2>Profil</h2>
+
+<p>
+
+Saya terus belajar dan mengembangkan kemampuan di bidang pemrograman serta
+
+berharap dapat memberikan kontribusi melalui teknologi dan kreativitas.
+
+</p>
+
+</div>
+
+</div>
+
+<footer>
+
+© 2026 Guilherme Fernando Gama de Souza (Assassin)
+
+</footer>
+
+</body>
+
+</html>
